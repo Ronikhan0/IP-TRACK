@@ -1,4 +1,4 @@
-import IPimport os, platform
+import Pimport os, platform
  
 try:
  
